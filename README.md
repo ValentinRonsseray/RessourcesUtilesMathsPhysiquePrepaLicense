@@ -1,6 +1,6 @@
-# Ressources
+# Maths / Physique-Chimie / Informatique --- Ressources niveau CPGE
 
-- Cahiers de calcul et d'entraînement en mathématiques et en physique-chimie, destinés aux étudiants de fin de terminal ou première année de prépa/license. Documents rédigés sous la direction de Colas Bardavid, ouvrages papier disponibles et édités par Dunod.
+- Cahiers de calcul et d'entraînement en mathématiques et en physique-chimie, destinés aux étudiants de fin de terminale ou première année de prépa/license. Documents rédigés sous la direction de Colas Bardavid, ouvrages papier disponibles et édités par Dunod.
 	- [Mathématiques](https://colasbd.github.io/cdc/)
 	- [Physique-Chimie](https://colasbd.github.io/cde/)
 - [TD de sup/spé et oraux](https://www.xif.fr/public/pr%C3%A9pas-dupuy-de-l%C3%B4me-maths/) de mathématiques très bien rédigés et corrigés par David Delaunay (CPGE Dupuy de Lôme). Les exos sont aussi disponibles sur ce répertoire, sous le nom `exos.zip`.
